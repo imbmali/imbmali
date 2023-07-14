@@ -18,6 +18,18 @@
 - ⚡ Grand Finalist World's biggest software and hardware competition, 'Smart India Hackathon 2019'. Out of 1 Lakh+ technical students, 3000+ technical institutions, 200+ organizations from across India. <img src="https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_850x478/public/2019/02/27/76205-2k19.jpg?itok=SoLxwejU&c=17cdd983cb2e42c69c4d3eb05e541d49" height="25px" width="25px">
 - ⚡ Fun fact: Every day I learn some new behind-the-scenes technology used in any tech product.
 
+### Languages & Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
+
 <a href="https://github.com/imbmali">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imbmali&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=27" alt="Bhavesh's Github Stats"/>
 </a>

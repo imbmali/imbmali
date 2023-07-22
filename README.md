@@ -11,7 +11,7 @@
 ### About Me:
 
 - 😄 Pronouns: He/Him 💁‍♂️
-- ⚡ I’m currently working as a Freelance Full Stack Developer.
+- ⚡ I’m currently working at upGrad.
 - ⚡ Previously worked at Coastr as Software Development Engineer.
 - ⚡ Former Google Developer Student Club Lead at [GDSC-LPU](https://gdsc.community.dev/lovely-professional-university-jalandhar/) <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="20px" width="40px"> - One of the 180+ GDSC Leads across India for the academic year of 2020-21.
 - ⚡ Former Gold Microsoft Learn Student Ambassador selected by the Program Operations team in a cohort of 23 new Gold Student Ambassadors from the 1200+ Ambassadors in India. <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="20px" width="20px">
@@ -24,7 +24,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>

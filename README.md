@@ -1,6 +1,6 @@
 ### 🙏 नमस्ते, I'm Bhavesh Mali 👋
 
-<h3>A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / React.Js / Node.Js / React Native and some other cool libraries and frameworks.</h3>
+<h3>A seasoned Full Stack Engineer 🚀 having experience in building Web and Mobile applications with JavaScript / React.Js / Node.Js / React Native and some other cool libraries and frameworks.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-imbmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imbmali/)](https://www.linkedin.com/in/imbmali/)
 [![Twitter Badge](https://img.shields.io/badge/-@imbmali-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imbmali/)](https://twitter.com/imbmali/)

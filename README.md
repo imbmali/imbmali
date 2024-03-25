@@ -11,7 +11,7 @@
 ### About Me:
 
 - 😄 Pronouns: He/Him 💁‍♂️
-- ⚡ I’m currently working at upGrad.
+- ⚡ I’m currently working at @.....
 - ⚡ Previously worked at Coastr as a Software Development Engineer.
 - ⚡ Former Google Developer Student Club Lead at [GDSC-LPU](https://gdsc.community.dev/lovely-professional-university-jalandhar/) <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="20px" width="40px"> - One of the 180+ GDSC Leads across India for the academic year of 2020-21.
 - ⚡ Former Gold Microsoft Learn Student Ambassador selected by the Program Operations team in a cohort of 23 new Gold Student Ambassadors from the 1200+ Ambassadors in India. <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="20px" width="20px">
